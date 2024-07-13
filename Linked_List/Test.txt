@@ -1,0 +1,8 @@
+Insert 1 2 3
+PrintList
+Clear
+PrintList
+Empty
+Insert 1 2 3
+Delete
+First
